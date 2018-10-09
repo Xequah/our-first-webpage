@@ -16,15 +16,16 @@ Open web browser.
 
  So far no known bugs.
 
-##Contact details
+## Contact details
 
 Charles Robertson email Xequah@yahoo.com
 
 ## Technologies Used
 
 Html
+CSS
 
-##Legal
+## Legal
 
 Copyright (c) 2016 Charles Robertson
 
